@@ -1,24 +1,24 @@
 import ProgressBar from "./ProgressBar";
 
 const skills = [
-  { iconPath: "/html5.png", title: "HTML", percentage: 90 },
-  { iconPath: "/css.png", title: "CSS", percentage: 80 },
+  { iconPath: "/asana.svg", title: "Asana", percentage: 99 },
+  { iconPath: "/trello.png", title: "Trello", percentage: 98 },
   {
-    iconPath: "/js.png",
-    title: "JavaScript",
-    percentage: 95,
-  },
-  {
-    iconPath: "/mongo.png",
-    title: "MongoDB",
-    percentage: 90,
-  },
-  {
-    iconPath: "/react.png",
-    title: "React",
+    iconPath: "/microsoft-word.png",
+    title: "Microsoft Word",
     percentage: 100,
   },
-  { iconPath: "/git.png", title: "Git", percentage: 89 },
+  {
+    iconPath: "/microsoft-excel.png",
+    title: "Microsoft Excel",
+    percentage: 100,
+  },
+  {
+    iconPath: "/powerpoint.png",
+    title: "PowerPoint",
+    percentage: 100,
+  },
+  { iconPath: "/outlook.png", title: "Outlook", percentage: 99 },
 ];
 
 const Skills = () => {

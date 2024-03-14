@@ -9,33 +9,33 @@ import "swiper/css/autoplay";
 const testimonials = [
   {
     name: "Antonio Rogers",
-    work: "Vercel",
+    work: "MINISTRY OF WATER, SANITATION AND IRRIGATION.",
     review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an",
+      "I've worked with Warren for over a year, and they have consistently impressed me with their dedication, professionalism, and great attitude.",
+  },
+  {
+    name: "Marvin Gates",
+    work: "MINISTRY OF WATER, SANITATION AND IRRIGATION.",
+    review:
+      "Warren has gone above and beyond to ensure that the team is successful, taking on additional responsibilities and consistently delivering high-quality work.",
+  },
+  {
+    name: "Kevin James",
+    work: "ROADS AND TRANSPORT SECTOR.",
+    review:
+      "Warren is a natural leader and has an excellent communication style. They are always able to motivate and inspire their colleagues.",
   },
   {
     name: "Antonio Rogers",
-    work: "Vercel",
+    work: "MINISTRY OF WATER, SANITATION AND IRRIGATION.",
     review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an",
+      "I've worked with Warren for over a year, and they have consistently impressed me with their dedication, professionalism, and great attitude.",
   },
   {
-    name: "Antonio Rogers",
-    work: "Vercel",
+    name: "Marvin Gates",
+    work: "MINISTRY OF WATER, SANITATION AND IRRIGATION.",
     review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an",
-  },
-  {
-    name: "Antonio Rogers",
-    work: "Vercel",
-    review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an",
-  },
-  {
-    name: "Antonio Rogers",
-    work: "Vercel",
-    review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an",
+      "Warren has gone above and beyond to ensure that the team is successful, taking on additional responsibilities and consistently delivering high-quality work.",
   },
 ];
 

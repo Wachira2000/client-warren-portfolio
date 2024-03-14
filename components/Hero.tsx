@@ -8,18 +8,18 @@ const Hero = () => {
   return (
     <header id="home" className="relative h-fit py-10">
       <ParticlesBackground />
-      <div className="relative flex justify-between max-w-[1400px] mx-auto items-center h-full w-[91%] max-md:flex-col">
+      <div className="relative flex justify-between max-w-[1400px] mx-auto items-center h-full w-[91%] max-md:flex-col py-24">
         <div className="flex flex-col justify-center text-white flex-1 max-md:order-2 max-md:text-center">
           <h2 className="font-bold md:text-4xl text-3xl mb-2">
-            Hi I'm Lewis a Full Stack
+            Hi I'm Warren a junior
           </h2>
           <h1 className="xl:text-9xl lg:text-8xl md:text-7xl text-6xl text-yellow-500 font-bold mb-5">
-            Developer
+          Engineer.
           </h1>
           <span className="md:w-3/4 mb-5">
-            I collaborate with various projects and
-            entrepreneurs, providing expertise in full-stack
-            engineering. Need assistance with your project?{" "}
+          I am a diligent and dedicated professional with excellent multitasking skills and a proven ability to
+manage complex tasks and projects. I am highly proficient in leveraging my exceptional communication
+skills to foster relationships with clients, colleagues, and key business partners.{" "}
             <Link href={"#contact"}>
               <span className="text-yellow-500 underline text-sm">
                 Contact Me &#8594;
@@ -37,13 +37,13 @@ const Hero = () => {
 
         <div className="flex flex-1 justify-end max-md:order-1 max-md:mb-3">
           <Image
-            src={"/Sutii.png"}
+            src={"/image.png"}
             width={350}
             height={150}
             role="img"
             aria-label="Lewis's Image"
             alt="Lewis's Image"
-            className="md:justify-self-end max-md:w-96"
+            className="md:justify-self-end max-md:w-96 rounded-full"
           />
         </div>
       </div>
